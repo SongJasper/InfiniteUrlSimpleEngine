@@ -8,3 +8,4 @@ https://pan.baidu.com/s/1TlD4enTW6DzL8Vp7TCy1bQ
 ?my_search_engine=%s 
 ,图标可以去阿里巴巴矢量图标库下载一个,
 需要在infinite中输入网址的时候,切换到这个自定义的引擎就好了.
+简书相关地址https://www.jianshu.com/p/15e0203f8876
